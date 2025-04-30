@@ -11,6 +11,6 @@
     "activeTab",
     "scripting",
     "http://localhost/*",
-    "http://www.googleapis.com/*"
+    "https://www.googleapis.com/*"
   ]
 }
